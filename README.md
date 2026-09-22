@@ -6,7 +6,7 @@ Interactive Tableau dashboard analyzing Airbnb listing elements and pricing patt
 
 [View the interactive Tableau dashboard](https://public.tableau.com/app/profile/yihan.wang3857/viz/AirBnB-Analysis_17900352269310/Dashboard1?publish=yes)
 
-![Airbnb Dashboard](images/Dashboard.png)
+![Airbnb Dashboard](image/Dashboard.png)
 
 ## Tools
 - Tableau
